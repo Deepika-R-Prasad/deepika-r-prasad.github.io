@@ -1,4 +1,3 @@
-![Deepika R Prasad](https://github.com/Deepika-R-Prasad/deepika-r-prasad.github.io/blob/main/img/avatar-icon.jpg?raw=true)
 
 ### CAREER OBJECTIVE 
 
