@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Deepika R Prasad
 
-You can use the [editor on GitHub](https://github.com/Deepika-R-Prasad/deepika-r-prasad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### CAREER OBJECTIVE 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Continual learning and effectively implementing latest skills results in exponential growth.
 
-### Markdown
+-----------------------------------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### SKILLS
+-	Java
+-	Spring Boot
+-	Micro Services 
+-	Kafka	
+-	Agile
+-	Jira
+-	GitHub
+-	PostGres DB
 
-```markdown
-Syntax highlighted code block
+---------------------------------------------------------
 
-# Header 1
-## Header 2
-### Header 3
+### WORK HISTORY
 
-- Bulleted
-- List
+**PROJECT ENGINEER, WIPRO LIMITED**
+11-2018 – CURRENT
+-	Development of microservices as per the design using the technologies like Spring Boot, JPA, REST, Kafka, Functional programming, etc.,
+-	Attend technical calls and brainstorming sessions before the development
+-	Ensure the written code has maximum coverage reflecting in the Jacoco Report by writing test cases using Junit, Mockito, etc.,
+-	Deliver a clean, quality code on time.
+-	Use Github, Team city and Docker for committing and migrating the code to the required environment.
+-	Collaborate with various teams to make the end to end flow fully functional.
+-	Functional testing of the code and rectify the discrepancies, if found.
+-	Preparation of technical documents and designs for the end user.
+-	Demonstrate the developed functionality to the technical leads, managers and clients.
+-	Attend daily scrum calls, sprint planning, WSR, Retrospective meetings.
+-	Authored code fixes and enhancements for inclusion in future code releases and patches.
 
-1. Numbered
-2. List
+#### ACCOMPLISHMENTS
+1. Round of Applause – Aug 2019 for High learning ability.
+2. Pleasure to work with – Aug 2019.
+3. BU Awards – Feb 2020 for Excellent contribution.
 
-**Bold** and _Italic_ and `Code` text
+----------------------------------------
 
-[Link](url) and ![Image](src)
-```
+### EDUCATION
+ 
+**M TECH: SOFTWARE ENGINEERING, BITS PILANI- WILP**
+<br> JUL 2020- CURRENT
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**BACHELOR OF ENGINEERING: TELECOMMUNICATIONS, SRI SIDDHARTHA INSTITUTE OF TECHOLOGY- TUMAKURU**
+<br> JUNE 2014- JUNE 2018
 
-### Jekyll Themes
+----------------------------------
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Deepika-R-Prasad/deepika-r-prasad.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
 
-### Support or Contact
+1. LinkedIn: https://www.linkedin.com/in/deepika-r-prasad/
+2. Gmail: deepika.grp@gmail.com
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
