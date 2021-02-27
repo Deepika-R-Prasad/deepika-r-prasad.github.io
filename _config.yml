@@ -2,6 +2,10 @@ theme: jekyll-theme-architect
 title: Deepika R Prasad
 description: Software Developer.
 avatar: "/img/avatar-icon.jpg" 
-LinkedIn: https://www.linkedin.com/in/deepika-r-prasad/
-Gmail: deepika.grp@gmail.com
+social-network-links:
+  linkedin: https://www.linkedin.com/in/deepika-r-prasad/
+  gmail: deepika.grp@gmail.com
+share-links-active:
+  gmail: true
+  linkedin: true
 author: Deepika R Prasad
